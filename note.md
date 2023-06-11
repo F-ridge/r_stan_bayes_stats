@@ -9,7 +9,7 @@
 - WindowsマシンでPyStan3.2.0を使う
     - https://zenn.dev/honehone/articles/e175150eb2ae3b
 
-- GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~
+- GitHubでssh接続する手順 公開鍵・秘密鍵の生成から
     - https://qiita.com/shizuma/items/2b2f873a0034839e47ce
 
 - 【Git】Windows環境でGitHubにSSH接続してコミットするまでの手順
