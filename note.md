@@ -18,8 +18,10 @@
 # Code for the book
 - RとStanではじめる ベイズ統計モデリングによるデータ分析入門
     - official sample code
-    - https://github.com/logics-of-blue/book-r-stan-bayesian-model-intro
+    - support page: https://logics-of-blue.com/r-stan-bayesian-model-intro-book-support/
+    - sample code: https://github.com/logics-of-blue/book-r-stan-bayesian-model-intro
 
 - Pythonで実装する「RとStanではじめるベイズ統計モデリングによるデータ分析入門」
     - python ver.
-    - https://qiita.com/MasazI/items/eb6a3b2b801564de3f1a
+    - blog: https://qiita.com/MasazI/items/eb6a3b2b801564de3f1a
+    - code: https://github.com/MasazI/python-r-stan-bayesian-model
